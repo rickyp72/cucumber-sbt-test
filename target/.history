@@ -1,0 +1,88 @@
+{file:/Users/ricky/projects/scala/docker-mycalc-test2/}docker-mycalc-test2/clean
+clean
+TestRunner test
+TestRunner steps
+steps
+TestRunner
+{file:/Users/ricky/projects/scala/docker-mycalc-test2/}docker-mycalc-test2/resources
+runner
+publish
+show test
+show test:full-classpath
+testOnly *steps
+testOnly *TestRunner
+clean
+steps.TestRunner
+testOnly steps.TestRunner
+clean
+test steps.TestRunner
+testOnly steps.TestRunner
+test-only steps.TestRunner
+cucumber
+ls
+pwd
+org.scalatest.tools.Runner
+wip
+clear
+clean
+{file:/Users/ricky/projects/scala/docker-mycalc-test2/}docker-mycalc-test2/test
+{file:/Users/ricky/projects/scala/docker-mycalc-test2/}docker-mycalc-test2/testExecution
+{file:/Users/ricky/projects/scala/docker-mycalc-test2/}docker-mycalc-test2/testOptions
+{file:/Users/ricky/projects/scala/docker-mycalc-test2/}docker-mycalc-test2/testLoader
+test:test-only *TestRunner
+test:test-only *steps
+test:test-only *MyCalulator
+test:test-only *calc.MyCalulator
+test:test *MyCalcultor
+test:testOnly *MyCalcultor
+test:testOnly *wip
+test:test-only *wip
+test:testOnly *
+test:testOnly *TestRunner
+test:testOnly *steps.TestRunner
+test:testOnly *steps.features
+clean
+test:testOnly *steps.wip
+test/features:testOnly *steps.wip
+test/resources/features:testOnly *steps.wip
+test/resources/features:testOnly *tests.wip
+test/resources/features.features:testOnly *tests.wip
+test/resources/features.features:testOnly *
+test/resources/features/features:testOnly *
+test/resources/features/features.features:testOnly *
+sbt "test/resources/features/features.features:testOnly test.wip
+sbt "test/resources/features/features.features:testOnly test.wip"
+test/resources/features/features.features:testOnly test.wip
+steps:testOnly steps.TestRunner
+test:run
+test:run-main
+test:run
+clean
+~test:console
+com.intellij.rt.execution.junit.JUnitStarter -ideVersion5 -junit4 steps.TestRunner
+{file:/Users/ricky/projects/scala/docker-mycalc-test2/}docker-mycalc-test2/clean
+{file:/Users/ricky/projects/scala/docker-mycalc-test2/}docker-mycalc-test2/testQuick
+test:testOnly steps.TestRunner
+steps.TestRunner
+test:steps.TestRunner
+test:test steps.TestRunner
+test:testOnly steps.TestRunner
+test
+{file:/Users/ricky/projects/scala/docker-mycalc-test2/}docker-mycalc-test2/clean
+test
+{file:/Users/ricky/projects/scala/docker-mycalc-test2/}docker-mycalc-test2/clean
+test:testOnly steps.TestRunner
+test:testOnly steps.StepsDefinitions
+test steps.TestRunner
+test:test steps.TestRunner
+test:testOnly steps.TestRunner
+test:testOnly steps
+glue = Array("steps")
+glue = Array("classpath:steps")
+test
+{file:/Users/ricky/projects/scala/docker-mycalc-test2/}docker-mycalc-test2/clean
+test
+{file:/Users/ricky/projects/scala/docker-mycalc-test2/}docker-mycalc-test2/clean
+test:testOnly steps.TestRunner
+{file:/Users/ricky/projects/scala/docker-mycalc-test2/}docker-mycalc-test2/clean
+test:testOnly steps.TestRunner
